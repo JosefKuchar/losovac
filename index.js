@@ -25,7 +25,9 @@ let words = shuffle([
 "Matěj čáp",
 "Pepa Kubr",
 "Kartézská soustava",
-])
+"Petr Pelda",
+"Petr Jiroušek",
+]);
 
 
 let table = document.createElement("table");
