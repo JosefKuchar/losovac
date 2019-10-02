@@ -21,7 +21,6 @@ let words = shuffle([
 "udělej si tabulku",
 "asymptota",
 "méně x",
-"čti!",
 "Matěj čáp",
 "Pepa Kubr",
 "Kartézská soustava",
