@@ -26,6 +26,11 @@ let words = shuffle([
 "Kartézská soustava",
 "Petr Pelda",
 "Petr Jiroušek",
+"dávej pozor!",
+"dohodli jsme se",
+"narovinu",
+"nó, co je?/nó běž...",
+"diktuj z lavice",
 ]);
 
 
